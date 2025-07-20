@@ -19,3 +19,5 @@ Predict the **temperature** based on humidity data.
 
 
 # Future Plans
+Consider using polynomial regression or time-series models for more complex patterns.
+ 
