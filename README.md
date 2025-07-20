@@ -10,7 +10,10 @@ Merge the two csv file provided
 Predict the **temperature** based on humidity data.
 
 # Steps taken
-
+1.Load the dataset
+2.Explore and clean the data
+3.Train a regression model
+4.Evaluate predictions
 
 # Benifits
 
